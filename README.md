@@ -12,8 +12,7 @@
 - 🌱 Learning & Exploring: `MERN Stack`, `Flask`, `FastAPI`, `Django`,`Kotlin` 
 - 💬 Ask me about: `C++`,`MERN Stack`, `Python`, `Data Analysis`, `SQL`
 - 📫 Reach out to me: **bharathperne123@gmail.com**
-<!--- 🧳 Portfolio: [kottarivaibhav.github.io/portfolio_website](https://kottarivaibhav.github.io/portfolio_website/) -->
-- 📄 Resume: [View on Google Drive]([https://drive.google.com/file/d/1PXTY0PuOFsgyFqohWngYgA91YN_EAGNT/view?usp=sharing])
+- 📄 Resume: [View on Google Drive](https://drive.google.com/file/d/1PXTY0PuOFsgyFqohWngYgA91YN_EAGNT/view?usp=sharing)
 - ⚡ Fun fact: *“I’m a focused mind with a fun-loving soul 😄”*
 
 ---
@@ -27,9 +26,6 @@
   <a href="https://www.instagram.com/bharath_8205/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="30" />
   </a>
-  <!--<a href="https://www.hackerrank.com/@kottarivaibhav" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="30" />
-  </a> -->
   <a href="https://leetcode.com/BharathK_16/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="30" />
 </a>
@@ -43,13 +39,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,java,python,flask,django,mongodb,mysql,firebase,git,github,figma,postman,matlab,kotlin" />
 </p>
 
----
 
-<!--### 🌟 Hacktoberfest Badges
-[![Holopin Badges](https://holopin.me/kottarivaibhav)](https://holopin.io/@kottarivaibhav)
-
----
--->
 ### 📊 GitHub Stats
 
 <p align="center">
