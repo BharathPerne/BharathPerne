@@ -12,7 +12,7 @@
 - 🌱 Learning & Exploring: `MERN Stack`, `Flask`, `FastAPI`, `Django`,`Kotlin` 
 - 💬 Ask me about: `C++`,`MERN Stack`, `Python`, `Data Analysis`, `SQL`
 - 📫 Reach out to me: **bharathperne123@gmail.com**
-- 📄 Resume: [View on Google Drive](https://drive.google.com/file/d/1PXTY0PuOFsgyFqohWngYgA91YN_EAGNT/view?usp=sharing)
+- 📄 Resume: [View on Google Drive](https://drive.google.com/file/d/1FODW1xx4p8Gd1FvWO_2dKGSCzbG-Ux3Y/view?usp=sharing)
 - ⚡ Fun fact: *“I’m a focused mind with a fun-loving soul 😄”*
 
 ---
